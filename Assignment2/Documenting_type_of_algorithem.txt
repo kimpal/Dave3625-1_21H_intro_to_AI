@@ -1,0 +1,6 @@
+Documenting of the research for the moste suted algorithem for the spesified use case.
+
+Forstock price prediction on the closing price regression algorithem is sueted.
+If the golle is to predicts whather the closing price of stock wil increase or decrease the nex day classification is best suted.
+In this case the the goall is to predict teh closing price for one specific date so therfor the regression algorithem is best sueted in this case.
+sorce: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
