@@ -1,6 +1,8 @@
-Documenting of the research for the moste suted algorithem for the spesified use case.
+#Documentation of the researcher for the most suited algorithm for the specified use case.
 
-For stock price prediction on the closing price regression algorithem is sueted.
-If the golle is to predicts whather the closing price of stock wil increase or decrease the nex day classification is best suted.
-In this case the the goall is to predict teh closing price for one specific date so therfor the regression algorithem is best sueted in this case.
-sorce: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
+For stock price prediction on the closing price regression algorithm is suited. 
+How evver if the goal is to predicts whether the closing price of stock will increase or decrease the next day classification is best suited.
+
+In this case the goal is to predict the closing price for one specific date so therefore the regression algorithm is best suited in this case.
+
+Source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
