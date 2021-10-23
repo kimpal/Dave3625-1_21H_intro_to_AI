@@ -9,3 +9,6 @@ How evver if the goal is to predicts whether the closing price of stock will inc
 In this case the goal is to predict the closing price for one specific date so therefore the regression algorithm is best suited in this case.
 
 Source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
+
+## The code
+https://github.com/kimpal/Dave3625-1_21H_intro_to_AI/blob/main/Assignment2/Assignment2New.ipynb
