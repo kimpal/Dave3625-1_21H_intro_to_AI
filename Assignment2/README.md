@@ -11,8 +11,8 @@ In this case the goal is to predict the closing price for one specific date so t
 After some more reashertc the DecisionTreeRegressor(2) seemed promising. So that algorithem was chosen to 
 
 Source: 
-1 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
-2 https://scikit-learn.org/stable/modules/tree.html#tree
+#1 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
+#2 https://scikit-learn.org/stable/modules/tree.html#tree
 
 ## The code
 https://github.com/kimpal/Dave3625-1_21H_intro_to_AI/blob/main/Assignment2/Assignment2New.ipynb
