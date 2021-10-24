@@ -4,11 +4,15 @@ from: https://github.com/umaimehm/Intro_to_AI_2021/tree/main/assignment2-machine
 
 ## Documentation of the researcher done for chosing algorithm.
 For stock price prediction on the closing price regression algorithm is suited. 
-How evver if the goal is to predicts whether the closing price of stock will increase or decrease the next day classification is best suited.
+How evver if the goal is to predicts whether the closing price of stock will increase or decrease the next day classification is best suited.(1)
 
 In this case the goal is to predict the closing price for one specific date so therefore the regression algorithm is best suited in this case.
 
-Source: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
+After some more reashertc the DecisionTreeRegressor(2) seemed promising. So that algorithem was chosen to 
+
+Source: 
+1 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
+2 https://scikit-learn.org/stable/modules/tree.html#tree
 
 ## The code
 https://github.com/kimpal/Dave3625-1_21H_intro_to_AI/blob/main/Assignment2/Assignment2New.ipynb
