@@ -15,4 +15,4 @@ Source:
 
 2. https://scikit-learn.org/stable/modules/tree.html#tree
 
-## The code whit the Solution https://github.com/kimpal/Dave3625-1_21H_intro_to_AI/blob/main/Assignment2/Assignment2New.ipynb
+## The code whit the Solution https://github.com/kimpal/Dave3625-1_21H_intro_to_AI/blob/c662730ba48a7daa8bb10f467400c02606af0577/Assignment2/Assignment2New.ipynb
