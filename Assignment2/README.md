@@ -1,6 +1,6 @@
 # Description for the asignment whit the usecase "Predict stock market price for TESLA." https://github.com/umaimehm/Intro_to_AI_2021/tree/main/assignment2-machinelearning
 
-## Documentation of the research done to chosing an algorithm.
+## Documentation of the research done to choose algorithm.
 For stock price prediction on the closing price regression algorithm is suited. 
 How evver if the goal is to predicts whether the closing price of a stock will increase or decrease the next day classification is best suited.(1)
 
