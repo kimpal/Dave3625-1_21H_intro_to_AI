@@ -8,7 +8,7 @@ How evver if the goal is to predicts whether the closing price of stock will inc
 
 In this case the goal is to predict the closing price for one specific date so therefore the regression algorithm is best suited in this case.
 
-After some more reashertc the DecisionTreeRegressor(2) seemed promising. So that algorithem was chosen to 
+After some more reashertc the DecisionTreeRegressor(2) seemed promising. So that algorithem was chosen to the use case.
 
 Source: 
 #1 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154061&isnumber=9153968
